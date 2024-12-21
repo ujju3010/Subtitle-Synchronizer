@@ -8,8 +8,6 @@ An automated tool to fix subtitle timing issues and ensure perfect synchronizati
 - Processes subtitles in SRT format.
 - Uses speech-to-text transcription for precise synchronization.
 
-## Demo
-![Demo](link_to_demo_gif_or_image)
 
 ## Getting Started
 
@@ -39,16 +37,6 @@ pip install -r requirements.txt
    python sync_subtitles.py --video input_video.mp4 --subtitle input_subs.srt --output output_subs.srt
    ```
 
-### Project Structure
-```
-subtitle-synchronizer/
-├── sync_subtitles.py          # Main script for subtitle synchronization
-├── requirements.txt           # Python dependencies
-├── README.md                  # Project documentation
-├── examples/                  # Example video and subtitle files
-├── outputs/                   # Output subtitle files
-└── LICENSE                    # License file
-```
 
 ### How It Works
 1. **Audio Extraction**: Extract audio from video using FFmpeg.
@@ -65,10 +53,8 @@ Contributions are welcome! To contribute:
 4. Push to the branch: `git push origin feature-name`.
 5. Open a pull request.
 
-### License
-This project is licensed under the MIT License.
 
 ### Contact
 For questions or suggestions:
-- **Email**: your-email@example.com
-- **GitHub**: [your-username](https://github.com/your-username)
+- **Email**: guptaujjawal3010@gmail.com
+- **GitHub**: https://github.com/ujju3010
