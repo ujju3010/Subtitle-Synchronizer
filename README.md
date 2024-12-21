@@ -8,8 +8,6 @@ An automated tool to fix subtitle timing issues and ensure perfect synchronizati
 - Processes subtitles in SRT format.
 - Uses speech-to-text transcription for precise synchronization.
 
-## Demo
-![Demo](link_to_demo_gif_or_image)
 
 ## Getting Started
 
